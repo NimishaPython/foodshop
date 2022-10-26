@@ -1,0 +1,30 @@
+PRODUCT
+--------
+image
+name
+desc
+slug
+category
+price
+stock
+available
+
+
+category
+--------
+name
+slug
+
+cart
+------
+card id
+date
+
+cart items
+----
+prodcut id
+cart id
+quantity
+
+
+
